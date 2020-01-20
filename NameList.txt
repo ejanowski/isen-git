@@ -1,5 +1,6 @@
 ﻿Emeric JANOWSKI
 Emeric JANOWSKI
+Guillaume FELTRIN
 Remi Fontan
 Lucile PELTIER
 Paul-Adrien CHARNOZ
