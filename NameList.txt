@@ -1,6 +1,5 @@
 Emeric JANOWSKI
 Emeric JANOWSKI
-Arnaud VAN DEN REYSEN
 Paul-Adrien CHARNOZ
 Morgane GOUGEON
 Antoine SINI
@@ -11,3 +10,4 @@ thomas CHAILLAN
 Florent RICCIARDI
 Nicolas MENGOZZI
 Chloé Costes
+Arnaud VAN DEN REYSEN
